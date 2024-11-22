@@ -2,5 +2,5 @@
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning software development
 - 📫 How to reach me rayankarmimmech@gmail.com
-- 😄 Pronouns: he.him
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I like cats
